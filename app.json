@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "guitar-project",
+    "description": "Hello World, My First App",
+    "slug": "guitar-project",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "loading": {
+      "icon": "./assets/icon.png",
+      "hideExponentText": true,
+      "backgroundColor":"#542733",
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1",
+    },
+    "android": {
+      "package": "com.duisebayyerkebulan.capokeys",
+      "permissions": [],
+      "versionCode": 3,
+    }
+  }
+}
